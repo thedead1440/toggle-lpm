@@ -1,8 +1,8 @@
 Package: toggle-lpm
-Version: 1.1
+Version: 1.1.1
 Architecture: all
 Maintainer: thedead1440 <talk.maemo.org/member.php?u=57509>
-Installed-Size: 76
+Installed-Size: 80
 Section: x11
 Priority: extra
 Description: Toggle LPM

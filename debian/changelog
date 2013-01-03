@@ -1,6 +1,5 @@
-toggle-lpm (1.1) unstable; urgency=low
+toggle-lpm (1.1.1) unstable; urgency=low
 
-  * Updated toggle to reflect current status
-  * $HOME used instead of rootfs
-
+  * Icons changed to Win7Mac's
+  
  -- thedead1440 <talk.maemo.org/member.php?u=57509>  Thur, 03 Jan 2013 00:10:00 +0800
