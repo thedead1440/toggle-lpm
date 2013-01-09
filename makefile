@@ -9,9 +9,7 @@ clean:
 
 install:
 	mkdir -p $(DESTDIR)/$(PREFIX)/.local/share/applications
-	mkdir -p $(DESTDIR)/$(PREFIX)/.local/share/icons/hicolor
 	mkdir -p $(DESTDIR)/$(PREFIX)/.local/share/icons/hicolor/apps
-	mkdir -p $(DESTDIR)/$(PREFIX)/.local/share/data
 	mkdir -p $(DESTDIR)/$(PREFIX)/.local/share/data/toggle-lpm
 	cp -rpv applications/toggle-lpm.desktop $(DESTDIR)/$(PREFIX)/.local/share/applications/
 	cp -rpv data/toggle-lpm/toggle-lpm.sh $(DESTDIR)/$(PREFIX)/.local/share/data/toggle-lpm/
