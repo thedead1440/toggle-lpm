@@ -1,0 +1,11 @@
+Package: toggle-wlan
+Version: 1.0
+Architecture: all
+Maintainer: thedead1440 <talk.maemo.org/member.php?u=57509>
+Installed-Size: 82
+Section: x11
+Priority: extra
+Description: Toggle WLAN
+ Toggle WLAN On/Off
+Maemo-Display-Name: toggle-wlan
+Maemo-Flags: visible
