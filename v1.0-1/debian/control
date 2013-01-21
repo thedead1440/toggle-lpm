@@ -1,0 +1,13 @@
+Source: toggle-wlan
+Section: x11
+Priority: extra
+Maintainer: thedead1440 <talk.maemo.org/member.php?u=57509>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+
+Package: toggle-wlan
+Architecture: all
+Description: Toggle WLAN
+ Toggle WLAN On/Off
+XB-Maemo-Flags: visible
+XB-Maemo-Display-Name: toggle-wlan

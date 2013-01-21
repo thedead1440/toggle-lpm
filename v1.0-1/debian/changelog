@@ -1,0 +1,5 @@
+toggle-wlan (1.0-1) stable; urgency=low
+
+  * no dbus calls
+   
+ -- thedead1440 <talk.maemo.org/member.php?u=57509>  Mon, 21 Jan 2013 19:30:00 +0800
