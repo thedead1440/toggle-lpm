@@ -1,5 +1,6 @@
-toggle-lpm (1.1.1) unstable; urgency=low
+toggle-wlan (1.0) stable; urgency=low
 
-  * Icons changed to Win7Mac's
+  * Initial release
+  * Icons by Anand Bibek
   
- -- thedead1440 <talk.maemo.org/member.php?u=57509>  Thur, 03 Jan 2013 23:10:00 +0800
+ -- thedead1440 <talk.maemo.org/member.php?u=57509>  Mon, 21 Jan 2013 19:30:00 +0800
